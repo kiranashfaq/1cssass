@@ -1,0 +1,60 @@
+h1 {
+  background-color: #691a40;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+#table1 {
+  margin: 0;
+  width: 1350px;
+  text-align: center;
+  background-color: #f70776;
+  height: 50px;
+  color: white;
+}
+#table2 {
+  width: 1000px;
+  text-align: center;
+  height: 100px;
+  color: white;
+  background-color: #691a40;
+}
+h2 {
+  text-align: center;
+  padding: 10px;
+  background-color: #f6a9ce;
+}
+a {
+  color: white;
+}
+.page2 {
+  position: absolute;
+  margin-left: 50%;
+  margin-right: 100%;
+}
+.home {
+  position: absolute;
+  margin-left: 60%;
+  margin-right: 90%;
+}
+.head {
+  position: absolute;
+  right: 10%;
+  top: 0;
+  margin-top: 20px;
+}
+.map {
+  margin-left: 5%;
+}
+.h3 {
+  border: 25px double #f6a9ce;
+  text-align: center;
+  padding: 25px;
+  margin-top: 5%;
+  margin-right: 20%;
+  margin-bottom: 10%;
+  margin-left: 20%;
+  background-color: #f6a9ce;
+  font-size: 25px;
+}
