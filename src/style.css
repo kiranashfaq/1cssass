@@ -4,13 +4,13 @@ h1 {
   color: white;
   text-align: center;
   margin: 0;
-  width: 1350px;
+  width: 100%;
   height: 100px;
   margin-top: 0px;
 }
 #table1 {
   margin: 0;
-  width: 1400px;
+  width: 100%;
   text-align: center;
   background-color: #f70776;
   height: 50px;
@@ -22,25 +22,22 @@ h1 {
   height: 100px;
   color: white;
   background-color: #691a40;
+  margin: auto;
 }
 h2 {
   text-align: center;
   padding: 10px;
   background-color: #f6a9ce;
-  width: 1400px;
+  width: 100%;
 }
 a {
   color: white;
 }
 .page2 {
-  position: absolute;
-  margin-left: 50%;
-  margin-right: 100%;
+  float: right;
 }
 .home {
-  position: absolute;
-  margin-left: 60%;
-  margin-right: 200%;
+  float: right;
 }
 .head {
   position: absolute;
@@ -62,4 +59,7 @@ a {
   margin-left: 20%;
   background-color: #f6a9ce;
   font-size: 25px;
+}
+.aboutimg {
+  float: right;
 }
